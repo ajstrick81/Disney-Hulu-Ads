@@ -6,4 +6,5 @@ Copy and paste this into your AdGuard custom filter list
 -----DisneyPlus/Hulu TV Rules-----
 
 ||cws.conviva.com^
+
 ||ads.digital.disneyadvertising.com^
